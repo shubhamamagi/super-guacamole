@@ -1,1 +1,1 @@
-select * from public.delivery;
+select * from delivery;
