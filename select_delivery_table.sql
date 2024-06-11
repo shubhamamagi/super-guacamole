@@ -1,1 +1,1 @@
-select * from delivery;
+select id,* from delivery;
