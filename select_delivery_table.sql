@@ -1,1 +1,1 @@
-select * from delivery;
+select order_id,* from delivery;
